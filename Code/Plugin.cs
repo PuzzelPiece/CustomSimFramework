@@ -10,7 +10,7 @@ namespace Erenshor.CustomSimFramework
     {
         public const string PluginGuid = "erenshor.customsimframework";
         public const string PluginName = "Custom Sim Framework";
-        public const string PluginVersion = "0.9.5";
+        public const string PluginVersion = "0.9.6";
 
         internal static ManualLogSource Log;
         internal static ConfigEntry<bool> CfgDumpVanillaData;
