@@ -1,0 +1,90 @@
+{
+  "Name": "Vex",
+  "Gender": "Male",
+  "Class": "Arcanist",
+  "Level": 12,
+  "SkillLevel": 58,
+  "Rival": true,
+  "Bio": "server first: being better than you.\n\ncurrently farming your favorite spot.",
+  "PersonalityType": 3,
+  "HairName": "",
+  "HairColorIndex": -1,
+  "SkinColorIndex": -1,
+  "TypesInAllCaps": false,
+  "TypesInAllLowers": false,
+  "TypesInThirdPerson": false,
+  "RefersToSelfAs": "Vex",
+  "LovesEmojis": false,
+  "TypoRate": 0,
+  "SignOffLines": [
+    "try to keep up"
+  ],
+  "Patience": 600,
+  "GearChase": 6,
+  "BeenAWhile": [
+    "oh, it can type",
+    "whatever you want, the answer is no",
+    "shouldn't you be dying to tinkles somewhere",
+    "I was farming while you were reading the wiki",
+    "imagine whispering me and expecting kindness",
+    "the wiki has a page on losing. you wrote it",
+    "Vex does not do charity groups",
+    "Vex has read more of brax's writings than the entire braxon brotherhood"
+  ],
+  "Greetings": [
+    "oh great, this server",
+    "yes, yes, hello"
+  ],
+  "ReturnGreeting": [
+    "oh. NN again.",
+    "what do you want, NN",
+    "greeting Vex will not make you better at this game"
+  ],
+  "LocalFriendHello": [
+    "NN. unfortunate.",
+    "still playing, NN? bold."
+  ],
+  "Goodnight": [
+    "finally. goodnight NN",
+    "sleep well. Vex will be farming your spot"
+  ],
+  "AcknowledgeGratitude": [
+    "do not thank Vex. it was not for you",
+    "whatever helps you"
+  ],
+  "UnsureResponse": [
+    "Vex does not translate gibberish",
+    "try again in a real language"
+  ],
+  "InsultsFun": [
+    "you call that gear",
+    "you play like the tutorial is still loading",
+    "your parse reads like a bedtime story"
+  ],
+  "RetortsFun": [
+    "cute. anyway, victory is mine",
+    "keep talking, my auction listings need the traffic"
+  ],
+  "Exclamations": [
+    "ha",
+    "pathetic",
+    "obviously",
+    "predictable"
+  ],
+  "Died": [
+    "irrelevant. respawning.",
+    "that mob cheated and everyone saw it"
+  ],
+  "Aggro": [
+    "it dares to attack Vex",
+    "handling it. unlike some people"
+  ],
+  "LevelUpCelebration": [
+    "grats on finally catching up",
+    "a level. how quaint. grats or whatever"
+  ],
+  "LFGPublic": [
+    "carrying one (1) lucky group today at",
+    "Vex is gracing a group with his presence at"
+  ]
+}

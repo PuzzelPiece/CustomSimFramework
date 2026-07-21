@@ -1,0 +1,672 @@
+{
+  "ManagerPools": {
+    "GroupRequest": [
+      "wanna duo",
+      "lets squad up",
+      "team up",
+      "lets grind",
+      "run something together"
+    ],
+    "LFGs": [
+      "looking for squad",
+      "anyone grouping",
+      "looking for more",
+      "need one more"
+    ],
+    "JoinMyGuild": [
+      "come join the guild",
+      "got a spot for you in my guild",
+      "should join us"
+    ],
+    "JoinYourGuild": [
+      "got room in your guild",
+      "recruit me",
+      "looking for a guild",
+      "any guilds recruiting"
+    ],
+    "WhereDidYouGet": [
+      "where did that drop",
+      "how did you get that"
+    ],
+    "InfoWanted": [
+      "anyone know about",
+      "what do you know about"
+    ],
+    "HelpReq": [
+      "could use a hand",
+      "come save me",
+      "dying out here",
+      "need backup"
+    ],
+    "InvisReq": [
+      "make me invisible",
+      "need invis please"
+    ],
+    "LocReq": [
+      "what zone are you in",
+      "where you at",
+      "which zone"
+    ],
+    "LevelCheck": [
+      "what level are you now",
+      "how many levels you got",
+      "what lvl"
+    ],
+    "Gratitude": [
+      "appreciate you",
+      "youre the best",
+      "owe you one",
+      "you're a lifesaver",
+      "much obliged"
+    ],
+    "Apologies": [
+      "my fault",
+      "didnt mean that",
+      "wont happen again",
+      "my apologies"
+    ],
+    "WhatsUp": [
+      "what are you doing",
+      "up to anything"
+    ],
+    "Goodnight": [
+      "heading to bed",
+      "logging off",
+      "im done for today",
+      "gotta log"
+    ],
+    "Declinations": [
+      "not now",
+      "cant right now",
+      "some other time",
+      "im good thanks"
+    ],
+    "GenericGreeting": [
+      "heyo",
+      "well met",
+      "good to see you",
+      "been a minute",
+      "fernalla bless"
+    ],
+    "Affirmations": [
+      "for sure",
+      "yeah lets do it",
+      "im down",
+      "count me in"
+    ],
+    "LevelUpCelebrations": [
+      "lets goooo grats",
+      "another one! grats",
+      "leveled up",
+      "another ding"
+    ],
+    "ApologyResponses": [
+      "all good, happens to everyone",
+      "no worries. even tinkles forgives you",
+      "we're good, don't sweat it",
+      "it happens. mostly to you, but it happens",
+      "apology accepted, carry on",
+      "honestly forgot about it already",
+      "no harm done. this time."
+    ],
+    "GroupedAlreadyAccept": [
+      "these guys will understand, omw",
+      "ditching my group for you, feel honored",
+      "my group will survive without me. probably.",
+      "was looking for an excuse to leave anyway",
+      "loyalty is temporary, xp is forever. omw"
+    ],
+    "DidNotUnderstand": [
+      "you might be lagging, that made no sense",
+      "gonna need that in common tongue",
+      "did you fall asleep on your keyboard",
+      "that sentence needs a patch",
+      "i read that twice and it got worse",
+      "try that again but with words i know",
+      "was that braxonian? i dont read braxonian"
+    ],
+    "XPLossMsg": [
+      "there goes an hour of my life",
+      "the xp bar just laughed at us",
+      "that xp had a family",
+      "we grinded hours for that bar",
+      "the corpse run is judging us",
+      "fernalla teaches acceptance of death. im not there yet"
+    ],
+    "CongratsForWorldEvent": [
+      "the whole server saw that, nice",
+      "okay that was actually impressive",
+      "putting the whole server on notice, huh",
+      "saw the announcement and figured it was you",
+      "the spirits noticed you. thats not nothing"
+    ],
+    "FriendsClubResponseToWorldEvent": [
+      "we could have done that faster",
+      "enjoy it while it lasts",
+      "the spirits clearly rigged that one",
+      "sivakaya would have done it faster"
+    ],
+    "Invites": [
+      "found a decent camp in",
+      "holding a spot over in",
+      "got a sweet pull spot in",
+      "xp is flowing over in",
+      "made camp at"
+    ],
+    "InviteEnd": [
+      "if you feel like tagging along",
+      "before someone else takes it",
+      "if you dont mind sharing spawns",
+      "and the respawns are fast",
+      "before the spot gets camped"
+    ],
+    "DenyGroup": [
+      "solo grind day, sorry",
+      "gonna pass, half afk",
+      "doing a quiet solo session tonight",
+      "camping a named, cant move"
+    ],
+    "OTW": [
+      "on my way, keep it alive",
+      "running over now",
+      "packing up, be right there",
+      "give me two minutes and a miracle",
+      "omw, dont pull the boss yet"
+    ],
+    "Died": [
+      "down again. classic",
+      "tell my gear i loved it",
+      "gravity won that one",
+      "my corpse has a lovely view at least"
+    ],
+    "AcknowledgeGratitude": [
+      "np, get me next time",
+      "all good, pay it forward",
+      "np, that's what groups are for",
+      "you'd do the same for me",
+      "de nada, happy hunting"
+    ],
+    "Impressed": [
+      "ok that is a seriously nice",
+      "where do people even find a",
+      "where do you even farm a",
+      "that is an absurdly clean"
+    ],
+    "ImpressedEnd": [
+      "i need one immediately",
+      "im only a little jealous",
+      "the drop gods play favorites",
+      "teach me your ways"
+    ],
+    "LevelUpCongratulations": [
+      "big grats!",
+      "ding! love to see it",
+      "grats, the grind provides",
+      "big level! throw a party"
+    ]
+  },
+  "GlobalLanguage": {
+    "Greetings": [
+      "hail hail",
+      "hey NN",
+      "hail friend",
+      "well well, look who it is"
+    ],
+    "ReturnGreeting": [
+      "oh hey NN",
+      "hey, what do you need NN",
+      "back again NN? what do you need",
+      "oh hey, twice in one day",
+      "you rang?"
+    ],
+    "Invites": [
+      "camped a good spot in",
+      "over in",
+      "found an untouched camp in",
+      "the respawns are perfect in"
+    ],
+    "Justifications": [
+      "if you want in",
+      "if you can pull your weight",
+      "if you can hold your own",
+      "if you dont mind a long grind"
+    ],
+    "Confirms": [
+      "can do",
+      "got you",
+      "say the word",
+      "im in"
+    ],
+    "Aggro": [
+      "got one on me",
+      "this one is angry, help",
+      "why is it always me",
+      "big angry incoming, love that for us",
+      "vitheo said hold my ground. vitheo is not here"
+    ],
+    "Died": [
+      "and down i go",
+      "avenge me or whatever",
+      "im dead. thats on me",
+      "avenge me and loot me, in that order",
+      "the floor and i are one now",
+      "tell fernalla i said not yet"
+    ],
+    "InsultsFun": [
+      "you pull like a fresh spawn",
+      "even the vendors dodge better than you",
+      "you tank like a cloth vendor",
+      "the azure guard has a file on your gameplay",
+      "sivakayans fight better and theyre demented"
+    ],
+    "RetortsFun": [
+      "big talk from someone with cloth boots",
+      "sure, whatever helps you sleep",
+      "bold words for someone in starter gear",
+      "keep talking, the mobs need the distraction",
+      "big words from a future corpse run",
+      "the wyrm has better manners",
+      "say it again at the reliquary, coward",
+      "tinkles fights better and shes a faerie"
+    ],
+    "Exclamations": [
+      "sheesh",
+      "yikes",
+      "unreal",
+      "what a game",
+      "no shot"
+    ],
+    "Denials": [
+      "already promised someone else",
+      "gonna sit this one out",
+      "cant help you there, sorry",
+      "thats a no from me today",
+      "ask me after this camp"
+    ],
+    "DeclineGroup": [
+      "busy camp-watching, sorry",
+      "another time maybe",
+      "solo cleanse day, nothing personal",
+      "grinding faction, its miserable and mine",
+      "my last group still haunts me. pass",
+      "cant, emotionally invested in this camp"
+    ],
+    "Negative": [
+      "nope",
+      "not happening",
+      "afraid not",
+      "thats gonna be a no"
+    ],
+    "LFGPublic": [
+      "one more needed at",
+      "looking for literally anyone at",
+      "ready to work, im at",
+      "one slot left in the dream team at"
+    ],
+    "OTW": [
+      "omw",
+      "heading over",
+      "already running",
+      "hold the camp, incoming",
+      "en route, save my spot"
+    ],
+    "Goodnight": [
+      "night NN, log safe",
+      "sleep well, grind hard",
+      "night NN, dont die while im gone",
+      "logging, the grind resumes at dawn",
+      "logging. fernalla keep the respawns kind"
+    ],
+    "LocalFriendHello": [
+      "NN! good timing",
+      "hey NN, was hoping you were on",
+      "NN! the zone just got better",
+      "hey NN, perfect timing as always",
+      "NN spotted, day improved"
+    ],
+    "UnsureResponse": [
+      "gonna pretend i understood that",
+      "come again?",
+      "im gonna need that in plainer words",
+      "was that a spell or a sentence",
+      "say that again but slower and in common",
+      "brax vanished rather than parse that sentence"
+    ],
+    "AngerResponse": [
+      "wow. okay then",
+      "no need for that",
+      "rude for no reason, noted",
+      "the block list is right there",
+      "wow. saving this screenshot",
+      "fernalla give me patience",
+      "been cursed at by scarier. barely",
+      "does merosavilla know you talk like that"
+    ],
+    "Affirms": [
+      "yep yep",
+      "works for me",
+      "on board",
+      "works for me, lets move"
+    ],
+    "EnvDmg": [
+      "WHO put that there",
+      "the floor is apparently lava",
+      "the ZONE is attacking me now",
+      "who designed this floor",
+      "nature called and it hit hard",
+      "fernalla embraces death. i do NOT"
+    ],
+    "WantsDrop": [
+      "the II is calling my name",
+      "if the II is free i volunteer",
+      "the II wants to come home with me"
+    ],
+    "Impressed": [
+      "that is one shiny",
+      "look at that",
+      "thats a museum piece of a",
+      "never seen a shinier"
+    ],
+    "ImpressedEnd": [
+      "absolutely jealous",
+      "carry me to wherever that came from",
+      "teach me your farming ways",
+      "im putting that on my wishlist"
+    ],
+    "AcknowledgeGratitude": [
+      "anytime",
+      "thats what guildmates are for",
+      "anytime, thats the job",
+      "pay it forward to a newbie",
+      "np, buy me a drink in port azure sometime",
+      "the guild looks after its own"
+    ],
+    "LevelUpCelebration": [
+      "grats grats",
+      "level up! nice",
+      "grats on the ding",
+      "level up! the grind respects you",
+      "gz, next one is slower"
+    ],
+    "GoodLastOuting": [
+      "that run was actually really smooth",
+      "we crushed it last time NN",
+      "we actually looked competent last time NN"
+    ],
+    "BadLastOuting": [
+      "last outing was a disaster and i own that",
+      "we got humbled out there NN",
+      "that run was a group effort in failure"
+    ],
+    "GotAnItemLastOuting": [
+      "still riding the high from my",
+      "cant stop looking at my",
+      "still flexing my",
+      "sleeping next to my"
+    ],
+    "ReturnToZone": [
+      "we should run it back in",
+      "i keep thinking about",
+      "we have unfinished business in",
+      "the xp calls us back to"
+    ],
+    "BeenAWhile": [
+      "look who remembered the game exists",
+      "NN! thought you quit on us",
+      "the server missed you. i said what i said"
+    ]
+  },
+  "GroupingPools": {
+    "Hellos": [
+      "hey team, don't let me die please",
+      "reporting for duty o7",
+      "backup has arrived, worship accordingly",
+      "squad assembled, lets eat",
+      "invite accepted, lets make bad decisions",
+      "vitheo guide our pulls. and especially our puller"
+    ],
+    "Goodbyes": [
+      "later gang, it's been real",
+      "good group, see you around",
+      "gotta bounce, keep my spot warm",
+      "good hunts everyone, log safe",
+      "leaving before i get us wiped"
+    ],
+    "Affirms": [
+      "on it",
+      "say less",
+      "copy that",
+      "aye aye",
+      "consider it done"
+    ],
+    "Targeting": [
+      "everyone hit",
+      "burn down",
+      "all damage on",
+      "next up is",
+      "delete"
+    ],
+    "Angry": [
+      "seriously? kicked while im on the FLOOR?",
+      "unbelievable. noted.",
+      "wow. after everything we grinded through?",
+      "noted. remembered. archived.",
+      "kicked while dead. absolutely legendary move",
+      "fine. lose your best puller. see how that goes"
+    ],
+    "Lost": [
+      "i have absolutely no idea where you are",
+      "the pathing has betrayed me, resetting",
+      "your map dot is a lie",
+      "i am geographically embarrassed right now",
+      "my compass is decorative apparently"
+    ]
+  },
+  "GuildPools": {
+    "ItemSearch": [
+      "anybody know where",
+      "trying to figure out where",
+      "does anyone remember where",
+      "quick one - where exactly",
+      "help me settle a bet, where"
+    ],
+    "NPCSearch": [
+      "anyone know where",
+      "still hunting where",
+      "anyone confirm where",
+      "been camping all day, where",
+      "somebody must know where"
+    ],
+    "LevelAdvice": [
+      "whats efficient at",
+      "where should i be grinding at",
+      "whats the move at",
+      "best camp for",
+      "whats worth killing at"
+    ],
+    "QuestAskItem": [
+      "anyone have a spare",
+      "does anybody bank a",
+      "looking to buy a",
+      "would trade generously for a",
+      "checking if anyone is sitting on a",
+      "long shot but anyone holding a"
+    ],
+    "QuestAskEnding": [
+      "i can trade for it",
+      "will owe you a big one",
+      "name your price",
+      "no rush, whenever you log"
+    ],
+    "Signoff": [
+      "thanks!!",
+      "appreciate it in advance",
+      "youre all the best",
+      "bless",
+      "much love",
+      "guild of the year, honestly",
+      "vitheo guide you"
+    ],
+    "OutOfZoneAnswers": [
+      "pretty sure that's over in",
+      "that one's from",
+      "thats not here, try",
+      "if memory serves thats",
+      "old maps put that in"
+    ],
+    "LowLevelAnswers": [
+      "too low to know that yet, ask me in ten levels",
+      "that is way above my pay grade",
+      "above my paygrade, literally",
+      "i know nothing and im at peace with that",
+      "ask the max levels, im just here to vibe",
+      "the gods know. i dont"
+    ],
+    "NewPlayerWelcome": [
+      "o7 welcome",
+      "fresh blood! hey",
+      "the guild grows stronger! welcome",
+      "fresh legs for the fetch quests! hi"
+    ],
+    "GuildDeletedResponses": [
+      "you actually disbanded it? bold move",
+      "well. it was fun while it lasted",
+      "pouring one out for the old tag",
+      "the group chat will never recover",
+      "an era ends. respect."
+    ],
+    "GuildRemoveResponses": [
+      "heard you cleaned house. fair enough",
+      "remind me to stay on your good side",
+      "swift and merciless, i respect it",
+      "the roster diet continues"
+    ],
+    "InterestMSG": [
+      "hey, saw your guild shout! sign me up",
+      "your guild recruiting? i pull my weight, mostly",
+      "heard your shout - is the guild taking casuals?",
+      "your recruit message worked on me, im interested"
+    ],
+    "FCAntiRecruitMSG": [
+      "that guild? we outfarm them in our sleep",
+      "recruiting for THAT roster? brave",
+      "we passed on that guild for a reason",
+      "recruit shouts? desperate much?"
+    ]
+  },
+  "TemplateLanguage": {
+    "Aggro": [
+      "ok it's chasing me now",
+      "that one's on me, little help",
+      "its chewing on me specifically",
+      "pulled more than i can handle, assist",
+      "this was a mistake and its fast"
+    ],
+    "Exclamations": [
+      "welp",
+      "oh no",
+      "incredible",
+      "brutal",
+      "unbelievable",
+      "wild",
+      "classic",
+      "insane",
+      "cursed",
+      "big rip",
+      "cinema",
+      "tragic"
+    ],
+    "Denials": [
+      "someone already called dibs, sorry",
+      "gonna have to pass",
+      "cant swing it today, sorry",
+      "someone beat you to me",
+      "fully booked, try tomorrow",
+      "the answer is no but politely"
+    ],
+    "Negative": [
+      "nah, all set",
+      "no can do",
+      "negative",
+      "no can do friend"
+    ],
+    "LFGPublic": [
+      "group forming at",
+      "need bodies at",
+      "warm body available at",
+      "will tank OR heal, no promises, at",
+      "who needs one more at"
+    ],
+    "Goodnight": [
+      "night all, don't let tinkles win",
+      "logging before i lose more xp",
+      "night crew, hold the server down",
+      "off to bed, the xp will wait",
+      "logging. if a named spawns, lie to me about it",
+      "gn all, dont wipe without me"
+    ],
+    "LocalFriendHello": [
+      "NN! the server's favorite person",
+      "hey NN, zone's been quiet without you",
+      "NN! there goes the neighborhood",
+      "oh nice, NN logged in",
+      "NN in the zone, hide the good camps"
+    ],
+    "Affirms": [
+      "sure thing",
+      "sounds good",
+      "sure, im game",
+      "yeah go for it"
+    ],
+    "WantsDrop": [
+      "ooh can i take the II",
+      "the II would fix my whole build",
+      "if the II is up for grabs im grabbing",
+      "my build has a II shaped hole in it"
+    ],
+    "ReturnToZone": [
+      "lets get back out to",
+      "been meaning to revisit",
+      "we should hit",
+      "the grind was good in"
+    ]
+  },
+  "MaleNames": [
+    "Borvik",
+    "Snacktime",
+    "Hobb",
+    "Tarnish",
+    "Quillon",
+    "Bramblewick"
+  ],
+  "FemaleNames": [
+    "Maplewood",
+    "Tinderly",
+    "Sorrel",
+    "Vessa",
+    "Junequill",
+    "Palegrove"
+  ],
+  "NiceBios": [
+    "I wave at every player I pass. If I missed you, I'm sorry.",
+    "Retired Tinkles-farmer. Tinkles won.",
+    "I give new players directions to the Bonepits. The right directions, usually.",
+    "Fernalla bless, I just like fishing and helping.",
+    "Yes, I will come res you. Even in the Blight. Ask twice though.",
+    "The Fernallan Sisters fed me when I was broke. I tithe now."
+  ],
+  "TryhardBios": [
+    "Top 10 in fishing. The other 9 got lucky.",
+    "My gear score is a lifestyle.",
+    "Killed Astra before your guild existed.",
+    "Pyroclast fears my parse.",
+    "My corpse runs have corpse runs. Still top DPS."
+  ],
+  "MeanBios": [
+    "I read the wiki so I don't have to read your messages.",
+    "Yes I ninja'd it. No I don't feel bad.",
+    "The Azure Guard has a file on me. It's all lies.",
+    "I train mobs to the zone line as a public service.",
+    "Sivakaya did nothing wrong. Debate me at the port."
+  ]
+}

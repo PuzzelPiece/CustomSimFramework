@@ -1,0 +1,370 @@
+{
+  "AllZones": [
+    "anyone else just vibing today",
+    "does anyone else feel like the named mobs in this game remember you",
+    "im not lost im exploring",
+    "what's everyone's favorite zone so far",
+    "whats the best cheap upgrade at my level, asking for me",
+    "chat died? chat died.",
+    "anyone else actually read the lore books? this continent has SEEN things",
+    "merosavilla banned travel here and honestly? fair",
+    "imagine explaining this place to someone from merosavilla",
+    "day 400 of pretending i know where im going",
+    "my inventory is full again. every time",
+    "five more minutes then i log. i said that an hour ago",
+    "anyone selling potions cheap?",
+    "whats the record for deaths in one day. asking for me",
+    "the sunsets in this game are absurd",
+    "which god do you actually pray to. real answers only",
+    "count the vitheo statues you pass today. more than you think"
+  ],
+  "Zones": [
+    {
+      "Zone": "Azure",
+      "Lines": [
+        "port azure needs a bakery",
+        "meet at the docks if you're bored",
+        "half this town is just people standing at the auction house",
+        "the lost cellar is RIGHT next to the gate and we all just walk past it",
+        "the guard hangs people at dawn and the market opens right after. this city is a lot"
+      ]
+    },
+    {
+      "Zone": "Stowaway",
+      "Lines": [
+        "everyone's first steps happen right here. no pressure",
+        "if you're new: welcome, loot everything",
+        "treven pines got me into fishing and now i own nothing but poles"
+      ]
+    },
+    {
+      "Zone": "Willowwatch",
+      "Lines": [
+        "the view from the ridge never gets old",
+        "the giant runts around here have a personal vendetta i swear",
+        "watch the priel recruits on the roads, they jump people",
+        "wiggleribs is the best worst name in all of erenshor",
+        "cagnus marlsen will beat you at chess AND take your lunch money",
+        "the ogre hunters drop solid starter bows, go shopping"
+      ]
+    },
+    {
+      "Zone": "Hidden",
+      "Lines": [
+        "took me forever to find this place. hidden hills indeed",
+        "quietest hills on the server. love it here",
+        "the necromancer business around here goes deeper than it looks",
+        "the frog men by the water are friend shaped. they are not friends"
+      ]
+    },
+    {
+      "Zone": "Brake",
+      "Lines": [
+        "the fireflies here are so cool at night",
+        "i swear the faeries whisper if you stand still long enough",
+        "tinkles is up by the ruins again. someone avenge paul",
+        "if the raider is out, stay off the road and let someone tanky go first",
+        "the fernalla golem trains to the zone line if you let it. dont let it",
+        "valrae might be the best quest giver on the continent, ogrespice and all"
+      ]
+    },
+    {
+      "Zone": "Vitheo",
+      "Lines": [
+        "whoever vitheo was, he picked a good spot for a watchtower",
+        "decent xp here if you keep moving",
+        "the molorai lock all their good stuff in krakengard. go take it",
+        "old brackey by the water hits way harder than he looks",
+        "the well water is fine. the flask quest says otherwise"
+      ]
+    },
+    {
+      "Zone": "FernallaField",
+      "Lines": [
+        "these fields go on forever and i love it",
+        "underspine is around here somewhere if you're feeling brave",
+        "the revival plains earn the name. everything out here comes back",
+        "fernalla's children still tend this place. be respectful",
+        "the dying wish questline by the sepulcher actually made me sad",
+        "you can see the great willow from almost anywhere out here",
+        "is the sepulcher worth running at my level?",
+        "best picnic spot in erenshor, fight me",
+        "respawns are so fast the mobs beat you back from your corpse",
+        "anyone else just lie down in the grass here sometimes?"
+      ]
+    },
+    {
+      "Zone": "Bonepits",
+      "Lines": [
+        "first dungeon energy in here. everyone dies at least once",
+        "watch the named ones in here, they hit way above their level",
+        "the necromancers down here answer to somebody. nobody agrees who",
+        "zashlyn bloodbane is farmable if you bring actual friends",
+        "i saw the apparition of sivakaya once. once was enough",
+        "skeleton captains hit way harder than the soldiers, pull careful",
+        "who keeps lighting all the candles down here",
+        "the rituals in here are probably fine. probably",
+        "does anything down here drop gear or is it all bones?",
+        "the pits are exactly as dark as advertised"
+      ]
+    },
+    {
+      "Zone": "Duskenlight",
+      "Lines": [
+        "the light here really is something at dusk",
+        "level range in this place is wild, watch what you pull",
+        "that skull on the horizon is the jaws of sivakaya. we LIVE here",
+        "the arcane pupils still practice like the school never fell",
+        "collect the school pages if you see them. trust me"
+      ]
+    },
+    {
+      "Zone": "Krakengard",
+      "Lines": [
+        "a fortress named after a kraken. what could go wrong",
+        "stick together in here, it punishes solo heroes",
+        "the molorai run this place like a prison. jailors and everything",
+        "captain sigrid walks rounds with a bodyguard. thats how you find her",
+        "the brewmistress drops are worth the whole trip",
+        "overseer orlok is rare. saw him once. still bragging",
+        "the chef and the brewmistress run the kitchens like nothing is wrong",
+        "the attack dogs hear you long before you see them",
+        "whats locked in the deepest cell? and why does nobody go check",
+        "molorai veterans fight like they remember a real war"
+      ]
+    },
+    {
+      "Zone": "SaltedStrand",
+      "Lines": [
+        "blacksalt beach day! bring a weapon",
+        "the salt gets in everything. worth it for the coastline",
+        "goliath walks this strand like he pays taxes here",
+        "the sivakayan clergy on this beach are NOT here to swim",
+        "the windmill is the best landmark on the coast. meet there",
+        "someone should give brice and cyndreela a proper burial already"
+      ]
+    },
+    {
+      "Zone": "Rottenfoot",
+      "Lines": [
+        "who names a place rottenfoot and expects tourism",
+        "smells exactly like you'd think out here",
+        "the swamp wyrm is real, and the rumor says it has a sibling",
+        "ragewhip gets angrier the longer you fight him. plan around that",
+        "watch for poachers around the nipper pups. actual villains",
+        "you can slip into the mines from here if you know the back way"
+      ]
+    },
+    {
+      "Zone": "Underspine",
+      "Lines": [
+        "if you're under 11 in here, that's a bold choice",
+        "it's darker down here than the map suggests",
+        "the ogres down here have shamans and elders. its a whole society",
+        "druo the reborn is always home. the other bosses rotate",
+        "the plaguebringers earn the name. do not let them finish a cast",
+        "smells like wet cave and regret down here",
+        "the shamans cast. the bruisers do not need to",
+        "anyone mapped this cave yet or are we all guessing?",
+        "obba of the warkind was up yesterday. today? nobody knows",
+        "i keep hearing drums. tell me those are drums"
+      ]
+    },
+    {
+      "Zone": "Braxonian",
+      "Lines": [
+        "hydrate before you cross the desert, trust me",
+        "the dunes all look the same, mark your corpse runs",
+        "brax's priests and sivakaya's soldiers both want this sand. let them fight",
+        "someone explain the chessboard in the desert. anyone. please",
+        "the monks dig day and night and nobody asks what for"
+      ]
+    },
+    {
+      "Zone": "Silkengrass",
+      "Lines": [
+        "the grass here really does feel like silk. anyway something bit me",
+        "pretty zone, mean residents",
+        "the white kodiak is real. i saw it, and then it saw me",
+        "morian the ascended waits at the end of somebody's bad decision",
+        "the temple in the grass predates everything. look at the stonework"
+      ]
+    },
+    {
+      "Zone": "Loomingwood",
+      "Lines": [
+        "these trees are definitely looming. name checks out",
+        "don't stray off the path after dark in here",
+        "the minotaur cave is amazing xp if the whole cave doesnt come at once",
+        "the wisp agents pass through here at night. they nod. i nod back",
+        "the gardener of loomingwood is not gardening anything good",
+        "devoratrix. say it out loud. now youre scared too"
+      ]
+    },
+    {
+      "Zone": "Elderstone",
+      "Lines": [
+        "mind the deep shafts in these mines",
+        "whoever mined this place out left in a hurry",
+        "the fungus ravaged brutes used to be miners. probably. dont think about it",
+        "ravager was the first infected. it did not stop at ravager",
+        "deeplings come in colors and every color is a problem",
+        "dont touch the glowing mushrooms. learned that one for the group",
+        "the goops do not care about your weapon. or your feelings",
+        "gloopa is real and gloopa is my favorite boss name ever",
+        "every tunnel down here hums a little. its not the wind",
+        "is the slumbering queen still slumbering? asking before i pull"
+      ]
+    },
+    {
+      "Zone": "Windwashed",
+      "Lines": [
+        "the wind out here never stops. NEVER",
+        "hold onto your hat, literally",
+        "granitus hits like the mountain he fell off of",
+        "rockshade hold is up here if your group is feeling brave",
+        "seafiends this far inland? the manalords brought friends",
+        "the ancient guardians dont sleep. they wait"
+      ]
+    },
+    {
+      "Zone": "Malaroth",
+      "Lines": [
+        "nesting grounds means babies. angry babies. with parents",
+        "do not poke the nests. i poked the nests",
+        "you can summon a boss at the feeding bowls if you bring the right snacks",
+        "shivunax is the reason my group doesnt come here anymore",
+        "the cubs are bait. the parents are the trap",
+        "vizijivi is out here somewhere and i owe him one"
+      ]
+    },
+    {
+      "Zone": "Undercity",
+      "Lines": [
+        "they found this place digging the port's foundations. then they sealed it",
+        "the tortured prisoners were here before port azure. think about that",
+        "spectral guards still walking posts for a king nobody remembers",
+        "the spark queen sounds cute until the beetles swarm",
+        "whatever this cellar was, the doors locked from the OUTSIDE",
+        "easy to get turned around down here, group up",
+        "the walls buzz where the spark beetles nest. its fine. its fine",
+        "somebody was down here long enough to turn spectral. sit with that",
+        "you can hear the port markets through the ceiling sometimes",
+        "anyone ever find treasure down here or just chains?"
+      ]
+    },
+    {
+      "Zone": "VitheosEnd",
+      "Lines": [
+        "from the watch to the rest. vitheo had a whole arc",
+        "endgame folks make this look easy. it is not",
+        "a hidden wall by the azure docks, and THIS is behind it",
+        "the shrines are the easy part. traitor's halls is a promise",
+        "nazura earned the title. the abomination earned the name",
+        "the apparition of vitheo is not really him. thats what i tell myself",
+        "no sivakrux? aareth graveblade keeps a spare key. he will not hand it over",
+        "whats under the lighthouse stays under the lighthouse"
+      ]
+    },
+    {
+      "Zone": "Rockshade",
+      "Lines": [
+        "the shade in here isn't from rocks, just saying",
+        "good loot deep in, bring a real group",
+        "the stonemen were scholars once. soluna's storm did this",
+        "pyroclast keeps them enslaved. somebody should do something. not me",
+        "diamond hounds. this dungeon has DIAMOND HOUNDS",
+        "the gem fiends sound valuable. they are mostly just angry",
+        "cinder is a cute name for what cinder is",
+        "the mosscovered stoneman is the oldest thing in here. respect your elders"
+      ]
+    },
+    {
+      "Zone": "Soluna",
+      "Lines": [
+        "soluna's landing might be the prettiest coast on the server",
+        "im not saying the crater is cursed, im saying i dont camp near it",
+        "nine stardusts around the crater. everyone knows. nobody finishes it",
+        "the music here makes me homesick for a place i never lived",
+        "valao the holy landed here first. the shrine remembers",
+        "the celestial matter is beautiful and it will absolutely kill you"
+      ]
+    },
+    {
+      "Zone": "Blight",
+      "Lines": [
+        "everything here wants everyone dead. respect it",
+        "the blight is not a farming zone, it's a survival exercise",
+        "tip the boatman. i dont know if it does anything. tip him anyway",
+        "wishlan the savior is out here. saving is not what he does anymore",
+        "the fog eats what little light there is. bring friends",
+        "this is where the ritual spread from. brax buried the rest"
+      ]
+    },
+    {
+      "Zone": "Ripper",
+      "Lines": [
+        "this keep scales with your nightmares im pretty sure",
+        "ripper's keep: come for the loot, stay because you died",
+        "winkles lives in the lake here. yes, really. winkles",
+        "ripper demerth has a bounty on his head and port azure wants him BAD",
+        "the faerie lake is the calmest spot in a keep full of soldiers",
+        "if demerth's soldiers are recruiting, nobody tell port azure"
+      ]
+    },
+    {
+      "Zone": "Abyssal",
+      "Lines": [
+        "do not swim in the lake. do NOT swim in the lake",
+        "the water is way deeper than it looks. the things in it agree",
+        "the nippers come out of the water when you least expect it",
+        "sivakayan templars guard the deep end. guard it from what, though",
+        "the abyssal lord is down here somewhere and my guild owes him a visit",
+        "supposedly theres a back way in behind the silkengrass waterfall",
+        "the undertoes are named that for a reason",
+        "who is feeding the nippers? they keep getting bigger",
+        "the fungus down here glows and i dont trust it",
+        "anyone actually seen the bottom of the lake?"
+      ]
+    },
+    {
+      "Zone": "PrielPlateau",
+      "Lines": [
+        "the cascade view is worth the climb alone",
+        "endgame zone with a waterfall. erenshor spoils us",
+        "the priels run this whole place. family business, the worst kind",
+        "addison and julianna priel do NOT want visitors",
+        "there are captive miners in here. someone should get them out",
+        "whatever the priels are experimenting on in here, it FAILED and it is still angry",
+        "a tamed malaroth, in here? somebody walked it all the way from the nesting grounds??",
+        "savannah priel herself is around. mind your manners and your neck"
+      ]
+    },
+    {
+      "Zone": "Braxonia",
+      "Lines": [
+        "imagine what this city was before it fell",
+        "ruins this big mean bosses this big",
+        "the ancient braxonian key comes off evadne. nothing about that fight is fair",
+        "the honor guard still holds their posts under all that ash",
+        "the statue of brax MOVES. i was not warned either",
+        "the historian of braxonia is still down here writing. let him finish",
+        "prince oslind and prince ardant never made it out. royalty didnt help",
+        "brax buried his own city to save the rest of us. walk respectfully"
+      ]
+    },
+    {
+      "Zone": "AzynthiClear",
+      "Lines": [
+        "an island garden at the end of the map. we made it",
+        "if you can farm here you've basically beaten the game",
+        "the boatman drops you off like its a ferry ride to a picnic",
+        "azynthi lived HERE and people still call him misunderstood",
+        "the acolytes never left. devotion or trap, hard to say",
+        "the dimensional rift in the back is worse than the garden. naturally",
+        "gargoth is in the rift. gargoth is the reason we wipe",
+        "the corruptor of gods gardened here. think about what he planted"
+      ]
+    }
+  ]
+}

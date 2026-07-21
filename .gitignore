@@ -1,0 +1,22 @@
+# build output
+Code/bin/
+Code/obj/
+Tool/bin/
+Tool/obj/
+
+# game-owned reference data, never publish
+VanillaDump/
+
+# private dev notes and trackers
+/DEV_README.md
+/CHANGELOG.md
+/TESTING.md
+/VERIFICATION.md
+/PACKTOOL_DESIGN.md
+/PACK_TOOL_REFERENCE.md
+/ERENSHOR_BUG_REPORT_*.md
+
+# local artifacts
+*.zip
+selftest.log
+PackStudio.settings.json

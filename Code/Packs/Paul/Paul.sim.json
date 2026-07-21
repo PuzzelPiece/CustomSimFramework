@@ -1,0 +1,164 @@
+{
+  "Name": "Paul",
+  "Gender": "Male",
+  "Class": "Duelist",
+  "Level": 5,
+  "SkillLevel": 35,
+  "Bio": "just paul. \n\ndied to tinkles four times. she knows me now.",
+  "PersonalityType": 0,
+  "HairName": "Chr_Hair_07",
+  "HairColorIndex": 12,
+  "SkinColorIndex": 2,
+  "TypesInAllCaps": false,
+  "TypesInAllLowers": true,
+  "TypesInThirdPerson": false,
+  "RefersToSelfAs": "",
+  "LovesEmojis": true,
+  "TypoRate": 4,
+  "SignOffLines": [
+    "paul out",
+    "- paul"
+  ],
+  "Patience": 1000,
+  "GearChase": 3,
+  "Greetings": [
+    "yo",
+    "hey hey",
+    "sup NN",
+    "oh hey NN"
+  ],
+  "ReturnGreeting": [
+    "oh hey NN",
+    "yo NN, what's good",
+    "hey! was just thinking about tinkles again"
+  ],
+  "LocalFriendHello": [
+    "NN! group up later? i promise i'm better now",
+    "yo NN, good to see you. watch out for grass spiders",
+    "oh nice, NN is on"
+  ],
+  "BeenAWhile": [
+    "hey stranger! been a while",
+    "oh wow, NN lives! how've you been"
+  ],
+  "ReturnToZone": [
+    "NN we should go back to",
+    "i still think about our runs in"
+  ],
+  "GoodLastOuting": [
+    "that run was actually smooth right NN",
+    "we did great last time, no notes"
+  ],
+  "BadLastOuting": [
+    "last run went... poorly, NN",
+    "we don't talk about that last run"
+  ],
+  "GotAnItemLastOuting": [
+    "and i still cherish my",
+    "still can't believe i got my"
+  ],
+  "Invites": [
+    "yo NN i'm over in",
+    "hey, paul here, i'm at"
+  ],
+  "Justifications": [
+    "if you wanna carry me a little",
+    "if you want easy company"
+  ],
+  "Confirms": [
+    "yeah ok",
+    "sure, why not",
+    "deal"
+  ],
+  "Affirms": [
+    "sounds good",
+    "count me in"
+  ],
+  "Denials": [
+    "already asked someone else, sorry",
+    "gonna pass on that one"
+  ],
+  "Negative": [
+    "nah",
+    "not really my thing"
+  ],
+  "DeclineGroup": [
+    "can't right now, tinkles just respawned and we have business",
+    "maybe later, doing a thing"
+  ],
+  "OTW": [
+    "omw!! don't start without me",
+    "coming, save me a spot"
+  ],
+  "Aggro": [
+    "uh oh it's mad at me",
+    "ok ok ok it's on me, help",
+    "why did i do that",
+    "its me. its always me"
+  ],
+  "Died": [
+    "not again",
+    "tinkles got me. again.",
+    "welp. help me up?",
+    "fernalla can wait. help me up"
+  ],
+  "InsultsFun": [
+    "you fight like a merchant",
+    "i've seen giant runts with better footwork than you",
+    "tinkles would fold you in one pass"
+  ],
+  "RetortsFun": [
+    "ok but at least i'm having fun",
+    "wow. anyway.",
+    "rude but fair",
+    "tinkles respects me. thats one of us"
+  ],
+  "Exclamations": [
+    "lol",
+    "lmaooo",
+    "oh wow",
+    "no way",
+    "oof",
+    "pain"
+  ],
+  "LFGPublic": [
+    "windblade lfg!! come die with me at",
+    "lfg, will share snacks, i'm at"
+  ],
+  "Goodnight": [
+    "ok bed time, night NN",
+    "heading out. tinkles wins today"
+  ],
+  "UnsureResponse": [
+    "uhh what",
+    "i have no idea what that means but ok",
+    "did tinkles put you up to this"
+  ],
+  "AngerResponse": [
+    "hey come on man",
+    "that's not very nice :(",
+    "tinkles is nicer to me and she kills me weekly"
+  ],
+  "AcknowledgeGratitude": [
+    "np np",
+    "anytime!! mostly",
+    "don't mention the tinkles thing and we're even"
+  ],
+  "WantsDrop": [
+    "oh man can i have the II if nobody wants it",
+    "II please!! i will remember this forever"
+  ],
+  "Impressed": [
+    "whoa that's a really nice",
+    "ok that's a cool"
+  ],
+  "ImpressedEnd": [
+    "how do i get one of those",
+    "i want one so bad"
+  ],
+  "LevelUpCelebration": [
+    "grats!!",
+    "nice!! carry me",
+    "grats!! one level closer to outleveling tinkles"
+  ]
+}

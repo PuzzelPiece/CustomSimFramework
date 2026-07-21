@@ -1,0 +1,251 @@
+{
+  "Topics": [
+    {
+      "Name": "TinklesGrudge",
+      "SimPlayerActivations": [
+        "Does anyone else think Tinkles holds a grudge? Asking for Paul.",
+        "Tinkles flew past three other people to come after me. Explain that.",
+        "Real talk: does Tinkles remember who killed her?"
+      ],
+      "ActivationWords": [
+        "tinkles grudge",
+        "tinkles again",
+        "tinkles hates"
+      ],
+      "Responses": [
+        "It's just pathfinding. Probably. I hope.",
+        "She hovers by the ruins waiting for me. Not joking.",
+        "Paul has died to Tinkles four times, so yes.",
+        "She remembers. Faeries always remember.",
+        "I sell faerie repellent, whisper me. (It's just a stick.)"
+      ],
+      "Preceed": [
+        "lol",
+        "ok so"
+      ],
+      "End": [
+        "anyway, watch your back out there.",
+        "this guild has a faerie problem."
+      ]
+    },
+    {
+      "Name": "FishingSpots",
+      "ActivationWords": [
+        "best fishing spot"
+      ],
+      "Responses": [
+        "Anywhere quiet. The fish can hear you complaining.",
+        "Marla guards her spots like raid loot, good luck getting one.",
+        "Ripper's Keep if you're high enough to walk there. The faeries watch you fish.",
+        "Wherever Tinkles isn't patrolling. So not Faerie's Brake."
+      ],
+      "RequiredLevelToKnow": 3
+    },
+    {
+      "Name": "LakeMonster",
+      "ActivationWords": [
+        "lake monster",
+        "something in the lake"
+      ],
+      "Responses": [
+        "I have SEEN it. Nobody believes me.",
+        "The ripples are too big for fish. Just saying.",
+        "Whatever it is, it's why I stay out of the water now.",
+        "Old-timers say don't swim past the drop-off. I listen."
+      ],
+      "RelevantScene": [
+        "Abyssal Lake"
+      ],
+      "RequiredLevelToKnow": 20
+    },
+    {
+      "Name": "GardenRun",
+      "SimPlayerActivations": [
+        "Who's actually cleared Azynthi's Garden? Asking for planning purposes.",
+        "Serious question: is the guild ready for a Garden run?"
+      ],
+      "ActivationWords": [
+        "garden run"
+      ],
+      "Responses": [
+        "Ready when you are. My gear says otherwise but my heart is ready.",
+        "Give me two more levels and im in.",
+        "Seen the entrance once. That counts for something right?",
+        "We'd need every healer online at once. So, never.",
+        "Plan it and they will come. Eventually. Maybe."
+      ],
+      "RequiredLevelToKnow": 25,
+      "MaxLevelToAsk": 35,
+      "forceLotsOfResponses": true
+    },
+    {
+      "Name": "SivakayaLore",
+      "SimPlayerActivations": [
+        "Hot take: Sivakaya is a victim, not a villain. Azynthi did the actual crime.",
+        "Been reading about the War of the Gods. We live in the aftermath and nobody talks about it.",
+        "Why did Brax just LEAVE? The whole Godless Age was avoidable."
+      ],
+      "ActivationWords": [
+        "sivakaya victim",
+        "war of the gods",
+        "godless age"
+      ],
+      "Responses": [
+        "Azynthi tricked her and took everything she was. Thats not a villain, thats a tragedy.",
+        "The Wisp have the right idea. Somebody should light that candle.",
+        "Brax buried a whole region in ash to save the rest of us. Imagine that grief.",
+        "All i know is the cultists hit hard and dont negotiate.",
+        "The scholars wrote it all down. Reading is free."
+      ],
+      "Preceed": [
+        "ok, lore time.",
+        "oh here we go."
+      ],
+      "End": [
+        "anyway, thats the history lesson.",
+        "class dismissed."
+      ]
+    },
+    {
+      "Name": "AzureGuardWatch",
+      "SimPlayerActivations": [
+        "Does the Azure Guard seem extra jumpy to anyone else lately?",
+        "Friendly reminder that Merosavilla BANNED travel here. We live in the quarantine zone."
+      ],
+      "ActivationWords": [
+        "azure guard",
+        "travel ban"
+      ],
+      "Responses": [
+        "They hang people at the port. HANG. And we just walk past it.",
+        "Sivakayan activity is up. Thats the whole reason for the ban.",
+        "Merosavilla makes the rules, the Guard just swings the rope.",
+        "Not saying be nice to the Guard. Saying dont be interesting to them.",
+        "Still the safest city on the continent. Low bar, but still."
+      ],
+      "Preceed": [
+        "between us:",
+        "keep it down but"
+      ],
+      "End": [
+        "anyway, stay out of trouble.",
+        "you didnt hear it from me."
+      ]
+    },
+    {
+      "Name": "NamedBossBrags",
+      "SimPlayerActivations": [
+        "Whats everyones proudest named kill? And no, Tinkles doesnt count.",
+        "Grizzlepaw finally went down for me today. Years of grudge, one loot roll."
+      ],
+      "ActivationWords": [
+        "proudest kill",
+        "best named"
+      ],
+      "Responses": [
+        "Fearantula. My arachnophobia and i beat it together.",
+        "Massia the Fallen, first try, no deaths. Witnesses: zero, sadly.",
+        "The Abyssal Lord owes me three deaths back.",
+        "Rattlewrists. Everyone starts somewhere ok.",
+        "Pyroclast. The whole raid heard me scream and i regret nothing."
+      ],
+      "Preceed": [
+        "ooh good thread.",
+        "easy:"
+      ],
+      "End": [
+        "screenshot or it didnt happen.",
+        "carry me to mine next."
+      ],
+      "RequiredLevelToKnow": 8
+    },
+    {
+      "Name": "PlanarRaids",
+      "SimPlayerActivations": [
+        "Which plane is the guild running next? I need the practice.",
+        "Got my first rune put together. The planes are real, people.",
+        "Raid night when? The planes are not going to clear themselves."
+      ],
+      "ActivationWords": [
+        "plane of valor",
+        "celestial plane",
+        "plane of elements",
+        "plane of the willow",
+        "raid night"
+      ],
+      "Responses": [
+        "You craft a rune, you open a portal at the reliquary, you meet a god. Simple. Terrifying.",
+        "The corruptor is in every single plane. Start asking why.",
+        "Valor is an arena. Eight rounds. Pace yourselves.",
+        "The willow one hurt my heart. Fernalla deserved better.",
+        "Bring resists for the elements plane or bring a second set of gear."
+      ],
+      "Preceed": [
+        "raid talk:",
+        "ok listen."
+      ],
+      "End": [
+        "anyway, get your rune sorted.",
+        "see you at the reliquary."
+      ],
+      "RequiredLevelToKnow": 30,
+      "MaxLevelToAsk": 35
+    },
+    {
+      "Name": "BlessedGear",
+      "SimPlayerActivations": [
+        "Just got my first blessed drop. The glow is everything.",
+        "Is anyone saving planar stones or do we all just sell them?"
+      ],
+      "ActivationWords": [
+        "purple glow",
+        "blessed gear",
+        "saving planar stones"
+      ],
+      "Responses": [
+        "Blue glow is nice. Purple glow is a lifestyle.",
+        "Eight shards and a resolving fluid make a stone, if you hate money.",
+        "The otherworldly box mold does the upgrade. Do not ask what its otherworldly FROM.",
+        "Winkles dropped my first blessed piece. I said thank you. To a faerie.",
+        "Save the stones. Future you is begging you."
+      ],
+      "Preceed": [
+        "gear talk.",
+        "oh, good topic."
+      ],
+      "End": [
+        "anyway, happy farming.",
+        "may the glow be with you."
+      ],
+      "RequiredLevelToKnow": 13
+    },
+    {
+      "Name": "SivakayanSightings",
+      "SimPlayerActivations": [
+        "Another sighting on the roads last night. Sivakayans, again.",
+        "The guard doubled patrols at the gate. Somebody knows something.",
+        "My cousin swears she saw cultists in the treeline. Everyone stay sharp."
+      ],
+      "ActivationWords": [
+        "sivakayan sightings",
+        "sivakayans spotted",
+        "sightings lately"
+      ],
+      "Responses": [
+        "The travel ban exists for a reason. This is the reason.",
+        "They move through the forests and swamps. Stay on the roads.",
+        "The ones who stayed with her went demonic. Thats not a rumor, thats history.",
+        "Port Azure closed its gates once already. It can happen again.",
+        "Report it to the azure guard and then walk the other way."
+      ],
+      "Preceed": [
+        "psst.",
+        "heads up."
+      ],
+      "End": [
+        "stay safe out there.",
+        "spread the word."
+      ]
+    }
+  ]
+}

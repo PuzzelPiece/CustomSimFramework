@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3B2A1C5D-9F41-4E83-A7D6-1C0E58B2F914}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Erenshor.CustomSimFramework</RootNamespace>
+    <AssemblyName>CustomSimFramework</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>C:\Steam\steamapps\common\Erenshor\BepInEx\core\0Harmony.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>C:\Steam\steamapps\common\Erenshor\Erenshor_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="BepInEx">
+      <HintPath>C:\Steam\steamapps\common\Erenshor\BepInEx\core\BepInEx.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="UnityEngine">
+      <HintPath>C:\Steam\steamapps\common\Erenshor\Erenshor_Data\Managed\UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>C:\Steam\steamapps\common\Erenshor\Erenshor_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>C:\Steam\steamapps\common\Erenshor\Erenshor_Data\Managed\UnityEngine.JSONSerializeModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Plugin.cs" />
+    <Compile Include="VanillaDumper.cs" />
+    <Compile Include="PackLoader.cs" />
+    <Compile Include="SimTemplateBuilder.cs" />
+    <Compile Include="GlobalDialogueInjector.cs" />
+    <Compile Include="GuildTopicInjector.cs" />
+    <Compile Include="Data\SimDefinition.cs" />
+    <Compile Include="Data\DialogueDefinitions.cs" />
+    <Compile Include="Data\TopicDefinitions.cs" />
+    <Compile Include="Patches\DumpPatches.cs" />
+    <Compile Include="Patches\InjectionPatches.cs" />
+    <Compile Include="Patches\GuildManagerPatches.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <!-- The bundled example pack, embedded in the DLL and extracted to
+         PacksRoot on first run (mod managers flatten zip subfolders, so
+         shipping it as files cannot work - see PackLoader.SeedShippedPacks).
+         To ship a different/updated pack: edit these files and rebuild. -->
+    <EmbeddedResource Include="Packs\Paul\Paul.sim.json"><LogicalName>ShippedPack::Paul::Paul.sim.json</LogicalName></EmbeddedResource>
+    <EmbeddedResource Include="Packs\Paul\Marla.sim.json"><LogicalName>ShippedPack::Paul::Marla.sim.json</LogicalName></EmbeddedResource>
+    <EmbeddedResource Include="Packs\Paul\Vex.sim.json"><LogicalName>ShippedPack::Paul::Vex.sim.json</LogicalName></EmbeddedResource>
+    <EmbeddedResource Include="Packs\Paul\global.dialogue.json"><LogicalName>ShippedPack::Paul::global.dialogue.json</LogicalName></EmbeddedResource>
+    <EmbeddedResource Include="Packs\Paul\zones.dialogue.json"><LogicalName>ShippedPack::Paul::zones.dialogue.json</LogicalName></EmbeddedResource>
+    <EmbeddedResource Include="Packs\Paul\topics.dialogue.json"><LogicalName>ShippedPack::Paul::topics.dialogue.json</LogicalName></EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- No post-build deployment: the DLL lands in bin\<Configuration>\ and is
+       copied to BepInEx\plugins\ manually (along with Code\Packs\* to
+       BepInEx\plugins\CustomSimFramework\Packs\ when pack files change). -->
+</Project>

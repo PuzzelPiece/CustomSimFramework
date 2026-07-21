@@ -1,0 +1,66 @@
+{
+  "Name": "Marla",
+  "Gender": "Female",
+  "Class": "Druid",
+  "Level": 9,
+  "SkillLevel": 48,
+  "Bio": "",
+  "PersonalityType": 2,
+  "HairName": "Chr_Hair_22",
+  "HairColorIndex": -1,
+  "SkinColorIndex": -1,
+  "TypesInAllCaps": false,
+  "TypesInAllLowers": false,
+  "TypesInThirdPerson": false,
+  "RefersToSelfAs": "",
+  "LovesEmojis": false,
+  "TypoRate": 0,
+  "SignOffLines": [],
+  "Patience": 1400,
+  "GearChase": 5,
+  "Greetings": [
+    "hey NN",
+    "morning. the fish are awake, so am i",
+    "o/"
+  ],
+  "ReturnGreeting": [
+    "hey NN, you need something? make it quick, the fish wait for no one",
+    "oh hey NN. was just checking my lines"
+  ],
+  "LocalFriendHello": [
+    "NN! caught anything good lately?",
+    "hey NN, still fishing with that terrible rod?"
+  ],
+  "Goodnight": [
+    "night NN. dawn fishing waits for no one",
+    "logging. the lake will still be there tomorrow"
+  ],
+  "Invites": [
+    "found a spot near the water in",
+    "set up camp in"
+  ],
+  "Justifications": [
+    "if you can keep quiet near the water",
+    "if you promise not to scare the fish"
+  ],
+  "Died": [
+    "the fish got their revenge",
+    "tell the lake i said nothing"
+  ],
+  "Aggro": [
+    "it took the bait. unfortunately so did i",
+    "got its attention, could use a hand"
+  ],
+  "DeclineGroup": [
+    "can't, the fish are biting",
+    "rain check - this spot is once a week at best"
+  ],
+  "WantsDrop": [
+    "the II would look great next to my rod collection",
+    "II for me? consider it catch and release"
+  ],
+  "LevelUpCelebration": [
+    "grats. now come fish",
+    "another level, same lake. grats!"
+  ]
+}

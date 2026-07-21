@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7E5D2C41-8A06-4B77-9D35-2F41A0C6E833}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PackStudio</RootNamespace>
+    <AssemblyName>PackStudio</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <LangVersion>7.3</LangVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <!-- WPF is DPI-aware natively; opt in to per-monitor awareness. -->
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\App.cs" />
+    <Compile Include="src\Json.cs" />
+    <Compile Include="src\PackModel.cs" />
+    <Compile Include="src\InstallLocator.cs" />
+    <Compile Include="src\Settings.cs" />
+    <Compile Include="src\RefData.cs" />
+    <Compile Include="src\RefData.Generated.cs" />
+    <Compile Include="src\Validation.cs" />
+    <Compile Include="src\Preview.cs" />
+    <Compile Include="src\SimListMeta.cs" />
+    <Compile Include="src\GlobalMeta.cs" />
+    <Compile Include="src\ui\Theme.cs" />
+    <Compile Include="src\ui\MainWindow.cs" />
+    <Compile Include="src\ui\LineListEditor.cs" />
+    <Compile Include="src\ui\PreviewPane.cs" />
+    <Compile Include="src\ui\SimEditor.cs" />
+    <Compile Include="src\ui\ChatterPages.cs" />
+    <Compile Include="src\ui\TopicsPage.cs" />
+    <Compile Include="src\ui\M4Pages.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.manifest" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
