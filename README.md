@@ -5,8 +5,7 @@ opens up the simulated players to custom content. Add your own named sims with
 personalities and dialogue, new lines for every generated sim, ambient zone
 chatter, and guild chat conversations, all through JSON content packs.
 
-- **Install the mod** from [Thunderstore](https://thunderstore.io/c/erenshor/)
-  (search for CustomSimFramework).
+- **Install the mod** from the Github releases or from [Thunderstore](https://thunderstore.io/c/erenshor/) once Thunderstore approves it.
 - **Download Pack Studio**, the GUI pack editor, from the
   [Releases page](https://github.com/PuzzelPiece/CustomSimFramework/releases/latest).
   No install needed, just download `PackStudio.exe` and double click it.
